@@ -15,7 +15,7 @@ Fetches faculty details from KIIT university website and saves to CSV
     ```bash
     python3 eagle-eye.py
     ```
-## 😠 I need all in single copy?
+## 🗃️ I need all in single copy?
 ```bash
 git clone https://github.com/prajwal-panth/eagle-eye
 cd eagle-eye
@@ -38,3 +38,4 @@ python3 eagle-eye.py
 CSV is distributed as follows and in case of empty/unavailable the are left blank:<br><br>
 `    NAME    |    BRANCH    |    IMAGE    |    LINKS   |    EMAIL    `<br><br>
 Links are maybe multivalued attribute and are seperated by space.
+**Note**: KIIT (Kalinga Institute of Industrial Technology) is a private, deemed university of India. [Visit-KIIT](https://kiit.ac.in/)
